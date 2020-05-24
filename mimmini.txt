@@ -1,0 +1,47 @@
+page1
+enthelum oru peru kodukk..
+like area calculator , land alakkana sadhanam , ennokke valla perum kodukk
+by
+date
+
+page 2
+introduction
+   problem analysis
+      
+         plots and land areas are calculated by professionals by dividing the land into several triangles
+and then calculating the individual areas of each triangle. Traditionally these people uses a normal traditional 
+calculator for the complex calculation involved in finding the area of individual triangles. which is time consuming
+and error prone.
+ So the solution for this is to build a web application which can calculate the areas of individual triangles just 
+by inputting the sides.
+
+logic used
+
+ The calculation of area of individual triangles can be calculated using herons formula.
+which is ......(give the detailed formula with indicators of which variable is which)
+
+
+page 3
+
+enthelum oru heading kodukk
+like procedure,coding , angana enthelum
+
+the project uses just html and css for design purpose and front end javascript for nessary calculation
+
+html code
+(ivide kodukkanam)
+
+css code
+(ivide)
+
+javaScript code
+(ivide)
+
+page 4
+ 
+output images
+
+page 5 
+ conclusion onnum kodukkan illa
+athond ee page venda 😉😉😁😁
+
